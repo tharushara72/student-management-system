@@ -1,0 +1,8 @@
+ Student Summary Report 
+
+Total Students: 4
+
+S001 - Tharushi | Average: 95.00 | Grade: A
+S002 - Rovin | Average: 52.33 | Grade: C
+S003 - Ramesh | Average: 85.67 | Grade: A
+S004 - Pawani | Average: 81.33 | Grade: A

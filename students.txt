@@ -1,0 +1,7 @@
+# Student Records File
+# Format: StudentID,StudentName,Math,Science,English
+
+S001,Tharushi,90,98,97
+S002,Rovin,56,34,67
+S003,Ramesh,78,89,90
+S004,Pawani,67,99,78
